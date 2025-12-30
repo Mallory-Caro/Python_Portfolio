@@ -1,5 +1,6 @@
 # Python_Portfolio
 My name is Mallory Caro and this is my portfolio of python code that I learned during the BISC 450 (Biological Topics) course.
+
 Dr. Vandenbrink, my images are not showing on github, but when I exported them from Jupyter Notebooks they showed on there. I'm not sure if I did something wrong or if you can see them so just wanted to let you know!
 
 ## Using Jupyter Notebooks 1 and 2
